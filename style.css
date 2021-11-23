@@ -1,2 +1,24 @@
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
+
+.top-image {
+    background-image: url(images/mobile/image-header-copy.jpg) ;
+    background-color: #3DBEFF;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 300px;
+    color: hsl(167, 40%, 24%);
+}
+
+.graphic-design {
+    background-image: url(images/mobile/image-graphic-design.jpg);
+    background-repeat: no-repeat;
+    height: 700px;
+   
+}
+
+.photography {
+    background-image: url(images/mobile/image-photography.jpg);
+    background-repeat: no-repeat;
+    height: 700px;
+}
